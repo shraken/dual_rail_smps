@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name smps)(type KiCad)(uri "$(KISYSMOD)\\shraken\\power\\smps.pretty")(options "")(descr ""))
+  (lib (name passives)(type KiCad)(uri "$(KISYSMOD)\\shraken\\passives\\passives.pretty")(options "")(descr ""))
+  (lib (name schottky)(type KiCad)(uri "$(KISYSMOD)\\shraken\\diodes\\schottky.pretty")(options "")(descr ""))
+  (lib (name usb)(type KiCad)(uri "$(KISYSMOD)\\shraken\\connectors\\usb.pretty")(options "")(descr ""))
+)

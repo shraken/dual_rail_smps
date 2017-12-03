@@ -1,0 +1,10 @@
+Qty,partname,description,lib
+0,"C","Unpolarized capacitor","device"
+0,"CONN_01X02","Connector, single row, 01x02","conn"
+0,"D_Schottky","Diode schottky","device"
+0,"INDUCTOR","","device"
+0,"R","Resistor","device"
+0,"TEST_1P","point","conn"
+0,"TPS61170_DRV_6","","smps"
+0,"TPS63700_DRC_10","","smps"
+0,"USB_B","USB Type B connector","conn"
